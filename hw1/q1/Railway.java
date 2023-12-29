@@ -2,7 +2,6 @@
 //-----------------------------------------------------
 // Title: Railway class
 // Author: Asli Algin
-// ID: 23275494084
 // Section: 02
 // Assignment: 1
 // Description: The Railway class reads information about railway stations, tracks, and their connections, 
