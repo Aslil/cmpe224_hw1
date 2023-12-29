@@ -2,7 +2,6 @@
 //-----------------------------------------------------
 // Title: MuseumVisit class
 // Author: Asli Algin
-// ID: 23275494084
 // Section: 02
 // Assignment: 1
 // Description: The MuseumVisit class represents a museum visit scenario using a graph representation, 
