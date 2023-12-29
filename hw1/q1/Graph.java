@@ -1,7 +1,6 @@
 //-----------------------------------------------------
 // Title: Graph class
 // Author: Asli Algin
-// ID: 23275494084
 // Section: 02
 // Assignment: 1
 // Description: The Graph class represents an undirected graph, providing methods to check, add or remove connections 
